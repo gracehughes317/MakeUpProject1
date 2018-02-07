@@ -7,6 +7,8 @@ public class HelloWorld {
 		System.out.println("heyo world");
 		//my names grace
 		//i live in a house
+		int one = 2;
+		//haha math
 	}
 
 }
